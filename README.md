@@ -17,6 +17,6 @@ This repository contains a pipeline for detecting anomalies in **real EV driving
 - Provides plots comparing normal vs anomalous trips (voltage, current, temperature).
 
 ## Acknowledgments
-- EV trip dataset: Battery and heating data in real driving cycles [kaggle.com]([https://link-url-here.org](https://www.kaggle.com/datasets/atechnohazard/battery-and-heating-data-in-real-driving-cycles).
+- EV trip dataset: Battery and heating data in real driving cycles [kaggle.com](https://www.kaggle.com/datasets/atechnohazard/battery-and-heating-data-in-real-driving-cycles).
 
 
